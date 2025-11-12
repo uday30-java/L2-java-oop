@@ -1,1 +1,1 @@
-Static public method,Constructors,encapsulation
+Static public method,Constructors,encapsulation,Abstraction
